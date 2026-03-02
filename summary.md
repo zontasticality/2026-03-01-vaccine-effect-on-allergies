@@ -107,7 +107,7 @@ At a societal level, the question is different. It's not "should individuals ski
 
 ## Part 3: What Platts-Mills Gets Right That Others Miss
 
-Platts-Mills' 2015 review provides the essential context: the allergy epidemic has **multiple causes operating on different timescales**. Vaccines are at most one factor among many:
+Platts-Mills' 2015 review ([view paper](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/The%20allergy%20epidemics_%201870-2010.html)) provides the essential context: the allergy epidemic has **multiple causes operating on different timescales**. Vaccines are at most one factor among many:
 
 - The hygiene revolution (1870s-1920s) → hay fever
 - The move indoors / TV watching (1960s) → asthma
@@ -142,7 +142,7 @@ The food allergy epidemic correlates with the wP→aP switch (1990s) but also co
 - Investigate wP/aP mixed schedules or return to wP for primary series
 - Develop Th1-promoting or balanced adjuvant alternatives to alum
 - Establish regulatory limits for food protein residues in vaccines
-- Conduct the RCT that Platts-Mills called for in 2015
+- Conduct the RCT that Platts-Mills [called for](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/The%20allergy%20epidemics_%201870-2010.html#:~:text=a%20proper%20controlled%20trial%20comparing%20the%20effects%20of%20cellular%20versus%20acellular%20pertussis%20vaccine%20on%20allergic%20disease%20has%20not%20yet%20been%20conducted) in 2015
 
 ### When is it individually rational to modify vaccine decisions based on allergy concerns?
 - **Requesting wP over aP if available**: Rational, especially with family atopy history

@@ -8,6 +8,10 @@
 # Converted text files from epub/pdf extraction
 *.txt
 
+# HTML docs (converted papers for GitHub Pages)
+!docs/
+!docs/**
+
 # Editor/OS junk
 .DS_Store
 *~

@@ -3,6 +3,7 @@
 ## User-Provided Articles
 
 ### 1. Warren et al. 2021 — Peanut allergy prevalence in US adults
+- **HTML**: [View paper](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Prevalence%20and%20characteristics%20of%20peanut%20allergy%20in%20US%20adults.html)
 - **Title**: Prevalence and characteristics of peanut allergy in US adults
 - **Authors**: Christopher Warren, Dawn Lei, Scott Sicherer, Robert Schleimer, Ruchi Gupta
 - **Journal**: Journal of Allergy and Clinical Immunology, 147(6):2263-2270
@@ -13,6 +14,7 @@
 - **Relevance**: Establishes the magnitude of the peanut allergy burden — ~1.8% convincing prevalence in US adults, ~800,000 with adult-onset. Provides context for the "how big is this problem" question but does not directly address vaccine causation.
 
 ### 2. Platts-Mills 2015 — The Allergy Epidemics: 1870-2010
+- **HTML**: [View paper](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/The%20allergy%20epidemics_%201870-2010.html)
 - **Title**: The Allergy Epidemics: 1870-2010
 - **Author**: Thomas A.E. Platts-Mills
 - **Journal**: Journal of Allergy and Clinical Immunology, 136(1):3-13
