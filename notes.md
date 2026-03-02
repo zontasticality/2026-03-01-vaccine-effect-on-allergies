@@ -101,17 +101,17 @@ As reported by [Science/AAAS](https://www.science.org/content/article/us-judge-r
 ## 2. The Arumugham Hypothesis: Food Proteins in Vaccines
 
 ### Core claim (Arumugham 2015)
-- [CLAIMED] ["injecting a protein into animals or humans causes immune system sensitization to that protein"](https://doi.org/10.4172/2329-6631.1000137) — citing Richet (Nobel 1913) and Wells (1908)
-- [CLAIMED] [Wells (1908) showed 50 nanograms of ovalbumin injected into guinea pigs caused sensitization](https://doi.org/10.4172/2329-6631.1000137)
-- [CLAIMED] ["there are no specifications limiting allergen content in vaccines approved for use in the United States"](https://doi.org/10.4172/2329-6631.1000137)
-- [CLAIMED] [IOM 2011 report stated vaccine antigens like gelatin and ovalbumin "do occasionally induce IgE-mediated sensitization in some individuals"](https://doi.org/10.4172/2329-6631.1000137)
+- [CLAIMED] ["injecting a protein into animals or humans causes immune system sensitization to that protein"](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Evidence%20That%20Food%20Proteins%20in%20Vaccines%20Cause%20Food%20Allergies.html#:~:text=injecting%20a%20protein%20into,sensitization%20to%20that%20protein) — citing Richet (Nobel 1913) and Wells (1908)
+- [CLAIMED] [Wells (1908) showed 50 nanograms of ovalbumin injected into guinea pigs caused sensitization](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Evidence%20That%20Food%20Proteins%20in%20Vaccines%20Cause%20Food%20Allergies.html#:~:text=50%20ng%20of%20ovalbumin,pigs%20resulted%20in%20sensitization)
+- [CLAIMED] ["there are no specifications limiting allergen content in vaccines approved for use in the United States"](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Evidence%20That%20Food%20Proteins%20in%20Vaccines%20Cause%20Food%20Allergies.html#:~:text=there%20are%20no%20speci%EE%80%9Ccations,in%20the%20United%20States)
+- [CLAIMED] [IOM 2011 report stated vaccine antigens like gelatin and ovalbumin "do occasionally induce IgE-mediated sensitization in some individuals"](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Evidence%20That%20Food%20Proteins%20in%20Vaccines%20Cause%20Food%20Allergies.html#:~:text=do%20occasionally%20induce%20IgE-mediated%20sensitization%20in%20some%20individuals)
 
 ### Specific proteins identified by Arumugham
-- [Chicken egg (ovalbumin) — in influenza, MMR, yellow fever vaccines](https://doi.org/10.4172/2329-6631.1000137)
-- [Gelatin — in MMR, varicella, influenza vaccines](https://doi.org/10.4172/2329-6631.1000137)
-- [Casein (milk protein) — in DTaP manufacturing](https://doi.org/10.4172/2329-6631.1000137)
-- [Soy — in various](https://doi.org/10.4172/2329-6631.1000137)
-- [Polysorbate 80 — manufactured from various oils](https://doi.org/10.4172/2329-6631.1000137)
+- [Chicken egg (ovalbumin) — in influenza, MMR, yellow fever vaccines](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Evidence%20That%20Food%20Proteins%20in%20Vaccines%20Cause%20Food%20Allergies.html#:~:text=Ovalbumin%20would%20of%20course,in%20allergy%20to%20dairy)
+- [Gelatin — in MMR, varicella, influenza vaccines](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Evidence%20That%20Food%20Proteins%20in%20Vaccines%20Cause%20Food%20Allergies.html#:~:text=was%20indeed%20caused%20by,in%20the%20DTaP%20vaccines)
+- [Casein (milk protein) — in DTaP manufacturing](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Evidence%20That%20Food%20Proteins%20in%20Vaccines%20Cause%20Food%20Allergies.html#:~:text=Ovalbumin%20would%20of%20course,in%20allergy%20to%20dairy)
+- [Soy — in various](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Evidence%20That%20Food%20Proteins%20in%20Vaccines%20Cause%20Food%20Allergies.html#:~:text=food%20proteins%20such%20as,casein%2C%20gelatin%2C%20soy%2C%20agar)
+- [Polysorbate 80 — manufactured from various oils](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Evidence%20That%20Food%20Proteins%20in%20Vaccines%20Cause%20Food%20Allergies.html#:~:text=Polysorbate%2080%20is%20sourced,sun%EE%80%9Eower%2C%20tapioca%2C%20wheat%2C%20corn)
 
 ### Evaluation of Arumugham's claims
 - [MY SYNTHESIS] **The basic immunology is correct**: injecting proteins with adjuvants CAN cause IgE sensitization. This is well-established since Richet's Nobel Prize work (1913).
@@ -185,7 +185,7 @@ As reported by [Science/AAAS](https://www.science.org/content/article/us-judge-r
 - [MY SYNTHESIS] **Critical methodological lesson**: unvaccinated children see doctors less, so they get diagnosed less. Any comparison must account for healthcare utilization.
 
 #### Mawson et al. 2017 (homeschool, N=666)
-- [CLAIMED] [Higher allergy rates in vaccinated children](https://doi.org/10.15761/jts.1000186)
+- [CLAIMED] [Higher allergy rates in vaccinated children](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Pilot%20comparative%20vaccinated%20unvaccinated%20children.html#:~:text=a%20higher%20rate%20of,and%20NDD%20than%20unvaccinated)
 - [MY SYNTHESIS] **Methodologically worthless**: parental recall only, no medical records, self-selected sample, retracted from Frontiers, reviewed by a chiropractor, published in predatory journal. Cannot be given weight.
 
 ---

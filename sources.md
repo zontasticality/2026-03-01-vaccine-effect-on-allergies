@@ -26,6 +26,17 @@
 - **Status**: `[downloaded]` `[read-partial: via PMC full text extraction]`
 - **Relevance**: **HIGH**. Authoritative review tracing three sequential allergy epidemics. Attributes them primarily to lifestyle changes (hygiene, indoor living, skin exposure). Notes vaccine formulation changes (whole-cell → acellular pertussis in 1992) as potentially relevant to food allergy timing but emphasizes no proper controlled trial exists. Does NOT endorse vaccines as a primary cause.
 
+### 3. Arumugham 2015 — Evidence That Food Proteins in Vaccines Cause the Development of Food Allergies and Its Implications for Vaccine Policy
+- **HTML**: [View paper](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Evidence%20That%20Food%20Proteins%20in%20Vaccines%20Cause%20Food%20Allergies.html)
+- **Title**: Evidence That Food Proteins in Vaccines Cause the Development of Food Allergies and Its Implications for Vaccine Policy
+- **Authors**: Vinu Arumugham
+- **Journal**: Journal of Developing Drugs, 4(4):1000137
+- **Year**: 2015
+- **DOI**: 10.4172/2329-6631.1000137
+- **Found via**: User-provided Scribd link; full text retrieved from Longdom open access
+- **Status**: `[downloaded]` `[read-partial: extracted via web fetch]`
+- **Relevance**: Central to the hypothesis under investigation. Claims that trace food proteins (ovalbumin, casein, gelatin, soy) in vaccines, combined with aluminum adjuvants, cause IgE-mediated food allergy. Cites Wells 1908 (50ng ovalbumin sensitization in guinea pigs) and 2011 IOM report. Published in a low-impact open-access journal (Longdom/OMICS group — known predatory publisher). The claims are mechanistically plausible but the source quality is poor.
+
 ### 4. Terhune et al. 2018 — Aluminum Adjuvant-Containing Vaccines in the Context of the Hygiene Hypothesis: A Risk Factor for Eosinophilia and Allergy in a Genetically Susceptible Subpopulation?
 - **HTML**: [View paper](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Aluminum%20Adjuvant-Containing%20Vaccines.html)
 - **Title**: Aluminum Adjuvant-Containing Vaccines in the Context of the Hygiene Hypothesis: A Risk Factor for Eosinophilia and Allergy in a Genetically Susceptible Subpopulation?
@@ -97,6 +108,16 @@
 - **Status**: `[downloaded]` `[read-partial: via PMC extraction]`
 - **Relevance**: **HIGH**. 13,453 German children (1-17 years). Found NO statistically significant differences in atopic disorder prevalence between vaccinated and unvaccinated. Some raw numbers showed higher rates in vaccinated children for certain age groups but not after adjustment.
 
+### 12. Mawson et al. 2017 — Pilot comparative study on the health of vaccinated and unvaccinated 6- to 12-year-old U.S. children
+- **HTML**: [View paper](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Pilot%20comparative%20vaccinated%20unvaccinated%20children.html)
+- **Title**: Pilot comparative study on the health of vaccinated and unvaccinated 6- to 12-year-old U.S. children
+- **Authors**: Mawson et al.
+- **Journal**: Journal of Translational Science
+- **Year**: 2017
+- **Found via**: Web search
+- **Status**: `[downloaded]` `[scouted-only]`
+- **Relevance**: **LOW**. 666 homeschooled children via parental survey. Reported higher allergy/asthma rates in vaccinated. Retracted from Frontiers in Public Health for methodological flaws. Republished in low-impact journal. Major issues: parental recall bias, no medical record verification, reviewed by a chiropractor, self-selected homeschool sample. Widely criticized by mainstream science.
+
 ### 14. Roush et al. 2007 — Historical Comparisons of Morbidity and Mortality for Vaccine-Preventable Diseases in the United States
 - **HTML**: [View paper](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Historical%20Comparisons%20Vaccine-Preventable%20Diseases.html)
 - **Title**: Historical Comparisons of Morbidity and Mortality for Vaccine-Preventable Diseases in the United States
@@ -110,16 +131,6 @@
 - **Relevance**: Essential context for the risk-benefit analysis. Documents >92% decline in cases and ≥99% decline in deaths for diphtheria, mumps, pertussis, tetanus after vaccination. ~103 million cases prevented since 1924.
 
 ## Additional Sources
-
-### 3. Arumugham 2015 — Evidence That Food Proteins in Vaccines Cause the Development of Food Allergies and Its Implications for Vaccine Policy
-- **Title**: Evidence That Food Proteins in Vaccines Cause the Development of Food Allergies and Its Implications for Vaccine Policy
-- **Authors**: Vinu Arumugham
-- **Journal**: Journal of Developing Drugs, 4(4):1000137
-- **Year**: 2015
-- **DOI**: 10.4172/2329-6631.1000137
-- **Found via**: User-provided Scribd link; full text retrieved from Longdom open access
-- **Status**: `[read-partial: extracted via web fetch]`
-- **Relevance**: Central to the hypothesis under investigation. Claims that trace food proteins (ovalbumin, casein, gelatin, soy) in vaccines, combined with aluminum adjuvants, cause IgE-mediated food allergy. Cites Wells 1908 (50ng ovalbumin sensitization in guinea pigs) and 2011 IOM report. Published in a low-impact open-access journal (Longdom/OMICS group — known predatory publisher). The claims are mechanistically plausible but the source quality is poor.
 
 ### 9. Estcourt et al. 2024 — Infant Whole-Cell Versus Acellular Pertussis Vaccination in 1997 to 1999 and Risk of Childhood Hospitalization for Food-Induced Anaphylaxis
 - **Title**: Infant Whole-Cell Versus Acellular Pertussis Vaccination in 1997 to 1999 and Risk of Childhood Hospitalization for Food-Induced Anaphylaxis
@@ -141,15 +152,6 @@
 - **Found via**: Web search
 - **Status**: `[read-partial: via PMC extraction]`
 - **Relevance**: **HIGH**. 29,238 children. Initial vaccine-allergy association vanished after adjusting for GP visit frequency. 83% of unvaccinated children were in the lowest quartile of doctor visits. Concluded the association was ascertainment bias: unvaccinated children simply got diagnosed less.
-
-### 12. Mawson et al. 2017 — Pilot comparative study on the health of vaccinated and unvaccinated 6- to 12-year-old U.S. children
-- **Title**: Pilot comparative study on the health of vaccinated and unvaccinated 6- to 12-year-old U.S. children
-- **Authors**: Mawson et al.
-- **Journal**: Journal of Translational Science
-- **Year**: 2017
-- **Found via**: Web search
-- **Status**: `[scouted-only]`
-- **Relevance**: **LOW**. 666 homeschooled children via parental survey. Reported higher allergy/asthma rates in vaccinated. Retracted from Frontiers in Public Health for methodological flaws. Republished in low-impact journal. Major issues: parental recall bias, no medical record verification, reviewed by a chiropractor, self-selected homeschool sample. Widely criticized by mainstream science.
 
 ### 13. Hurley et al. 2018 — Effect of endotoxin and alum adjuvant vaccine on peanut allergy
 - **Title**: Effect of endotoxin and alum adjuvant vaccine on peanut allergy

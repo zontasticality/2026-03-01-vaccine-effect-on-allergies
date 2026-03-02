@@ -80,12 +80,16 @@
       "pages": "1000137",
       "type": "journal-article",
       "found_via": "User-provided Scribd link; full text retrieved from Longdom open access",
-      "download": null,
+      "download": {
+        "hash": null,
+        "format": "pdf",
+        "filename": "Evidence That Food Proteins in Vaccines Cause Food Allergies.pdf"
+      },
       "status": "read-partial",
       "status_detail": "extracted via web fetch",
       "relevance_level": null,
       "relevance": "Central to the hypothesis under investigation. Claims that trace food proteins (ovalbumin, casein, gelatin, soy) in vaccines, combined with aluminum adjuvants, cause IgE-mediated food allergy. Cites Wells 1908 (50ng ovalbumin sensitization in guinea pigs) and 2011 IOM report. Published in a low-impact open-access journal (Longdom/OMICS group — known predatory publisher). The claims are mechanistically plausible but the source quality is poor.",
-      "html_filename": null,
+      "html_filename": "Evidence That Food Proteins in Vaccines Cause Food Allergies.html",
       "crossref_enriched": true
     },
     {
@@ -313,12 +317,16 @@
       "pages": null,
       "type": "journal-article",
       "found_via": "Web search",
-      "download": null,
+      "download": {
+        "hash": null,
+        "format": "pdf",
+        "filename": "Pilot comparative vaccinated unvaccinated children.pdf"
+      },
       "status": "scouted-only",
       "status_detail": null,
       "relevance_level": "LOW",
       "relevance": "666 homeschooled children via parental survey. Reported higher allergy/asthma rates in vaccinated. Retracted from Frontiers in Public Health for methodological flaws. Republished in low-impact journal. Major issues: parental recall bias, no medical record verification, reviewed by a chiropractor, self-selected homeschool sample. Widely criticized by mainstream science.",
-      "html_filename": null,
+      "html_filename": "Pilot comparative vaccinated unvaccinated children.html",
       "crossref_enriched": false
     },
     {
