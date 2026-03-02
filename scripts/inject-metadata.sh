@@ -32,6 +32,23 @@ CSS_BLOCK='
 /* Also force all pages opened for consistent rendering */
 .pf .pc { display: block !important; }
 
+/* Override pdf2htmlEX scroll container: make body the scroll root.
+   pdf2htmlEX makes #page-container an absolute-positioned overlay with
+   overflow:auto, creating a nested scroll context. Text fragments only
+   scroll the document root, so pages beyond the first are unreachable.
+   Fix: convert to normal document flow so body scrolls. */
+@media screen {
+  #page-container {
+    position: static !important;
+    overflow: visible !important;
+    width: auto !important;
+    height: auto !important;
+    padding-top: 80px;
+  }
+  #sidebar { display: none !important; }
+  body { overflow: auto; }
+}
+
 #metadata-bar {
   position: fixed;
   top: 0;
@@ -160,17 +177,8 @@ content = content.replace('</head>', css + '</head>', 1)
 # Inject bar after <body>
 content = content.replace('<body>', '<body>' + bar, 1)
 
-# Add padding-top to #page-container so content isn't hidden
-# The bar is roughly 80px tall
-content = content.replace(
-    '#page-container{position:absolute;top:0;',
-    '#page-container{position:absolute;top:80px;'
-)
-# Also fix sidebar
-content = content.replace(
-    '#sidebar{position:absolute;top:0;',
-    '#sidebar{position:absolute;top:80px;'
-)
+# Note: padding-top for metadata bar and position overrides are
+# handled by the injected CSS block (no inline style patching needed).
 
 # Remove pdf2htmlEX viewer JS that does lazy page loading.
 # The viewer's pre_hide_pages() sets display:none on .pc elements,
