@@ -96,20 +96,24 @@
         "Deth"
       ],
       "year": 2018,
-      "doi": null,
-      "pmid": null,
+      "doi": "10.3390/ijerph15050901",
+      "pmid": "29751492",
       "journal": "International Journal of Environmental Research and Public Health",
       "volume": null,
       "issue": null,
       "pages": null,
       "type": "journal-article",
       "found_via": "Web search",
-      "download": null,
+      "download": {
+        "filename": "Aluminum Adjuvant-Containing Vaccines.pdf",
+        "format": "pdf",
+        "hash": "e3b248b380923d786800602bfd892faa"
+      },
       "status": "read-partial",
       "status_detail": "via PMC extraction",
       "relevance_level": "MODERATE-HIGH",
       "relevance": "Proposes that aluminum adjuvants trigger Th2-skewed immune responses without regulatory T cell activation, potentially increasing allergy risk in genetically susceptible children. Relies primarily on mouse models. Explicitly acknowledges this is a hypothesis requiring validation, not proven causation. 119 references.",
-      "html_filename": null,
+      "html_filename": "Aluminum Adjuvant-Containing Vaccines.html",
       "crossref_enriched": false
     },
     {
@@ -120,7 +124,7 @@
         "Ann-Christine Junker"
       ],
       "year": 2022,
-      "doi": null,
+      "doi": "10.1007/s40629-022-00215-8",
       "pmid": null,
       "journal": "Allergo Journal International",
       "volume": null,
@@ -128,12 +132,16 @@
       "pages": null,
       "type": "journal-article",
       "found_via": "Web search",
-      "download": null,
+      "download": {
+        "filename": "Anaphylaxis to additives in vaccines.pdf",
+        "format": "pdf",
+        "hash": "615f753830d33298d7e7743ea21beba9"
+      },
       "status": "read-partial",
       "status_detail": "via PMC extraction",
       "relevance_level": "HIGH",
       "relevance": "Comprehensive review of allergenic vaccine excipients (gelatin, ovalbumin, casein, PEG, polysorbate 80). Documents anaphylaxis rates of 1-10 per million vaccinations. Key data: ovalbumin limit ≤1 µg/dose, bovine casein detected in nanogram amounts in DTaP. Distinguishes between rare anaphylactic reactions (well-documented) and the broader question of whether vaccines drive population-level allergy sensitization (not addressed).",
-      "html_filename": null,
+      "html_filename": "Anaphylaxis to additives in vaccines.html",
       "crossref_enriched": false
     },
     {
@@ -151,12 +159,16 @@
       "pages": "541-549",
       "type": "journal-article",
       "found_via": "Web search",
-      "download": null,
+      "download": {
+        "filename": "Timing of routine infant vaccinations food allergy eczema.pdf",
+        "format": "pdf",
+        "hash": "f79d018af7c9e4b716856b8e5dae4723"
+      },
       "status": "scouted-only",
       "status_detail": null,
       "relevance_level": "HIGH",
       "relevance": "Population-based cohort of 4,433 children. Delayed DTaP was NOT associated with food allergy (p=0.49) but WAS associated with reduced eczema (p=0.04) and eczema medication use (p=0.01).",
-      "html_filename": null,
+      "html_filename": "Timing of routine infant vaccinations food allergy eczema.html",
       "crossref_enriched": true
     },
     {
@@ -166,7 +178,7 @@
         "Lise Gehrt et al."
       ],
       "year": 2021,
-      "doi": null,
+      "doi": "10.1016/j.jaip.2020.09.024",
       "pmid": "33011301",
       "journal": "JACI: In Practice",
       "volume": null,
@@ -174,12 +186,16 @@
       "pages": null,
       "type": "journal-article",
       "found_via": "Web search",
-      "download": null,
+      "download": {
+        "filename": "Timeliness of DTaP-IPV-Hib Vaccination Atopic Dermatitis.pdf",
+        "format": "pdf",
+        "hash": "0c2ba7ff3c569514144fe2a00380a9f4"
+      },
       "status": "scouted-only",
       "status_detail": null,
       "relevance_level": "HIGH",
       "relevance": "Massive cohort: 883,160 Danish children (1997-2012). Delayed DTaP associated with reduced atopic dermatitis: aRR 0.94 (0.91-0.97) for delayed first dose; aRR 0.88 (0.82-0.93) for delayed first and second doses. Dose-response relationship strengthens causal inference.",
-      "html_filename": null,
+      "html_filename": "Timeliness of DTaP-IPV-Hib Vaccination Atopic Dermatitis.html",
       "crossref_enriched": false
     },
     {
@@ -197,12 +213,16 @@
       "pages": "2004-2014",
       "type": "journal-article",
       "found_via": "Web search",
-      "download": null,
+      "download": {
+        "filename": "Whole-Cell Pertussis Vaccination Decreased Risk Food Allergy.pdf",
+        "format": "pdf",
+        "hash": "ec45fc8203171875c5b97dd122507f21"
+      },
       "status": "scouted-only",
       "status_detail": null,
       "relevance_level": "VERY HIGH",
       "relevance": "Australian children born 1997-1999 during wP→aP transition. Infants receiving whole-cell pertussis (wP) had OR 0.77 (95% CI 0.62-0.95) for IgE-mediated food allergy vs. acellular pertussis (aP). Suggests vaccine *formulation* matters more than vaccination itself.",
-      "html_filename": null,
+      "html_filename": "Whole-Cell Pertussis Vaccination Decreased Risk Food Allergy.html",
       "crossref_enriched": true
     },
     {
@@ -235,7 +255,7 @@
         "Grüber et al."
       ],
       "year": 2003,
-      "doi": null,
+      "doi": "10.1093/aje/kwh035",
       "pmid": null,
       "journal": "American Journal of Public Health",
       "volume": null,
@@ -258,20 +278,24 @@
         "Schmitz et al."
       ],
       "year": 2011,
-      "doi": null,
-      "pmid": null,
+      "doi": "10.3238/arztebl.2011.0099",
+      "pmid": "21412506",
       "journal": "Deutsches Ärzteblatt International",
       "volume": null,
       "issue": null,
       "pages": null,
       "type": "journal-article",
       "found_via": "Web search",
-      "download": null,
+      "download": {
+        "filename": "Vaccination Status and Health KiGGS.pdf",
+        "format": "pdf",
+        "hash": "df674e104f0746862881de4ddffda749"
+      },
       "status": "read-partial",
       "status_detail": "via PMC extraction",
       "relevance_level": "HIGH",
       "relevance": "13,453 German children (1-17 years). Found NO statistically significant differences in atopic disorder prevalence between vaccinated and unvaccinated. Some raw numbers showed higher rates in vaccinated children for certain age groups but not after adjustment.",
-      "html_filename": null,
+      "html_filename": "Vaccination Status and Health KiGGS.html",
       "crossref_enriched": false
     },
     {
@@ -305,7 +329,7 @@
         "Tadrous"
       ],
       "year": 2018,
-      "doi": null,
+      "doi": "10.1016/j.jaci.2017.09.016",
       "pmid": null,
       "journal": null,
       "volume": null,
@@ -329,20 +353,24 @@
         "Murphy"
       ],
       "year": 2007,
-      "doi": null,
-      "pmid": null,
+      "doi": "10.1001/jama.298.18.2155",
+      "pmid": "18000199",
       "journal": "JAMA",
       "volume": null,
       "issue": null,
       "pages": null,
       "type": "journal-article",
       "found_via": "Web search",
-      "download": null,
+      "download": {
+        "filename": "Historical Comparisons Vaccine-Preventable Diseases.pdf",
+        "format": "pdf",
+        "hash": "404f109062695f0db77d843d2d6daaec"
+      },
       "status": "scouted-only",
       "status_detail": null,
       "relevance_level": null,
       "relevance": "Essential context for the risk-benefit analysis. Documents >92% decline in cases and ≥99% decline in deaths for diphtheria, mumps, pertussis, tetanus after vaccination. ~103 million cases prevented since 1924.",
-      "html_filename": null,
+      "html_filename": "Historical Comparisons Vaccine-Preventable Diseases.html",
       "crossref_enriched": false
     }
   ]

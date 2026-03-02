@@ -115,7 +115,7 @@ As reported by [Science/AAAS](https://www.science.org/content/article/us-judge-r
 
 ### Evaluation of Arumugham's claims
 - [MY SYNTHESIS] **The basic immunology is correct**: injecting proteins with adjuvants CAN cause IgE sensitization. This is well-established since Richet's Nobel Prize work (1913).
-- [MY SYNTHESIS] **The regulatory gap claim appears correct**: Mahler & Junker (2022) confirm that [bovine casein is detected in "nanogram amounts" in DTaP vaccines, and ovalbumin limits are ≤1 µg/dose](https://doi.org/10.1007/s40629-022-00215-8).
+- [MY SYNTHESIS] **The regulatory gap claim appears correct**: Mahler & Junker (2022) confirm that [bovine casein is detected in "nanogram amounts" in DTaP vaccines, and ovalbumin limits are ≤1 µg/dose](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Anaphylaxis%20to%20additives%20in%20vaccines.html#:~:text=one%20to%20ten%20cases%20per%201%20million).
 - [MY SYNTHESIS] **The leap from "can cause" to "does cause the epidemic" is NOT supported**: Arumugham provides no epidemiological evidence, no dose-response data in humans, and no comparison of allergy rates by vaccination status or by specific vaccine exposure.
 - [MY SYNTHESIS] **Publication quality is very poor**: Longdom/OMICS group is a known predatory publisher. No peer review of substance is guaranteed. This does NOT make the claims false, but it means they have not been subjected to rigorous scrutiny.
 
@@ -124,18 +124,18 @@ As reported by [Science/AAAS](https://www.science.org/content/article/us-judge-r
 ## 3. Mechanistic Evidence: Adjuvants and IgE
 
 ### Aluminum adjuvants and Th2 skewing (Terhune & Deth 2018)
-- [CLAIMED] [Aluminum adjuvants "do not induce an environment conducive to the induction of regulatory mechanisms"](https://doi.org/10.3390/ijerph15050901)
-- [INFERRED] [Unlike chronic parasitic infections (which also trigger Th2 but also activate Tregs), aluminum adjuvants trigger Th2 responses WITHOUT regulatory T cell activation](https://doi.org/10.3390/ijerph15050901)
-- [CLAIMED] [This Th2-skewing without immune regulation could increase allergy risk in genetically susceptible (atopic) children](https://doi.org/10.3390/ijerph15050901)
+- [CLAIMED] [Aluminum adjuvants "do not induce an environment conducive to the induction of regulatory mechanisms"](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Aluminum%20Adjuvant-Containing%20Vaccines.html#:~:text=induce%20an%20environment%20conducive%20to%20the%20induction%20of%20regulatory%20mechanisms)
+- [INFERRED] [Unlike chronic parasitic infections (which also trigger Th2 but also activate Tregs), aluminum adjuvants trigger Th2 responses WITHOUT regulatory T cell activation](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Aluminum%20Adjuvant-Containing%20Vaccines.html#:~:text=Th2%20type%20cell%20mediated%20immune%20response%2C%20including%20eosinophilia%2C%20but%20does%20not%20induce%20an)
+- [CLAIMED] [This Th2-skewing without immune regulation could increase allergy risk in genetically susceptible (atopic) children](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Aluminum%20Adjuvant-Containing%20Vaccines.html#:~:text=genetically%20susceptible%20subpopulation)
 - **Limitations explicitly stated by authors**: primarily mouse models, no direct human epidemiological evidence, presents hypothesis not proof
 
 ### Actual documented allergenic reactions to vaccine excipients (Mahler & Junker 2022)
-- [MEASURED] [Anaphylaxis rates: 1-10 per million vaccinations (historical vaccines)](https://doi.org/10.1007/s40629-022-00215-8)
-- [MEASURED] [COVID-19 vaccine anaphylaxis: 0.8-3.5 per million doses depending on formulation](https://doi.org/10.1007/s40629-022-00215-8)
-- [MEASURED] [Gelatin in vaccines has caused anaphylaxis; "one third of patients exhibiting IgE antibodies to gelatin"](https://doi.org/10.1007/s40629-022-00215-8)
-- [MEASURED] [Ovalbumin limit: ≤1 µg per vaccine dose (European Pharmacopoeia)](https://doi.org/10.1007/s40629-022-00215-8)
-- [MEASURED] [Bovine casein: detected in "nanogram amounts" in DTaP](https://doi.org/10.1007/s40629-022-00215-8)
-- [MEASURED] [8 children with severe milk allergies experienced anaphylaxis following DTaP boosters (case series)](https://doi.org/10.1007/s40629-022-00215-8)
+- [MEASURED] [Anaphylaxis rates: 1-10 per million vaccinations (historical vaccines)](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Anaphylaxis%20to%20additives%20in%20vaccines.html#:~:text=0.8%20per%201%20million%20doses)
+- [MEASURED] [COVID-19 vaccine anaphylaxis: 0.8-3.5 per million doses depending on formulation](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Anaphylaxis%20to%20additives%20in%20vaccines.html#:~:text=patients%20exhibiting%20IgE%20antibodies%20to%20gelatin)
+- [MEASURED] [Gelatin in vaccines has caused anaphylaxis; "one third of patients exhibiting IgE antibodies to gelatin"](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Anaphylaxis%20to%20additives%20in%20vaccines.html#:~:text=ovalbumin%20per%20vaccine%20dose%20must%20not%20be%20exceeded)
+- [MEASURED] [Ovalbumin limit: ≤1 µg per vaccine dose (European Pharmacopoeia)](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Anaphylaxis%20to%20additives%20in%20vaccines.html#:~:text=Bovine%20casein%20has%20been%20detected%20in%20nanogram)
+- [MEASURED] [Bovine casein: detected in "nanogram amounts" in DTaP](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Anaphylaxis%20to%20additives%20in%20vaccines.html#:~:text=milk%20allergy%20who%20reacted)
+- [MEASURED] [8 children with severe milk allergies experienced anaphylaxis following DTaP boosters (case series)](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Anaphylaxis%20to%20additives%20in%20vaccines.html#:~:text=Bovine%20casein%20has%20been%20detected%20in%20nanogram)
 - [MY SYNTHESIS] This confirms that vaccine excipients CAN trigger IgE-mediated reactions in already-sensitized individuals. The question of whether vaccines *create* the sensitization in the first place remains separate.
 
 ### Mouse model: adjuvant formulation matters (Hurley & Tadrous 2018)
@@ -150,7 +150,7 @@ As reported by [Science/AAAS](https://www.science.org/content/article/us-judge-r
 ### The strongest evidence: whole-cell vs. acellular pertussis
 
 #### Estcourt et al. 2020 (nested case-control, Australia)
-- [MEASURED] [Children receiving whole-cell pertussis (wP) as first dose: OR 0.77 (95% CI 0.62-0.95) for IgE-mediated food allergy vs. acellular pertussis (aP)](https://doi.org/10.1016/j.jaip.2019.12.020)
+- [MEASURED] [Children receiving whole-cell pertussis (wP) as first dose: OR 0.77 (95% CI 0.62-0.95) for IgE-mediated food allergy vs. acellular pertussis (aP)](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Whole-Cell%20Pertussis%20Vaccination%20Decreased%20Risk%20Food%20Allergy.html#:~:text=controls%20was%200.77%20%2895%25%20CI%2C%200.62-0.95)
 - [MY SYNTHESIS] This is a 23% reduction in food allergy odds with whole-cell vaccine. Methodologically strong: used the natural experiment of Australia's 1997-1999 transition period.
 
 #### Estcourt et al. 2024 (cohort, NSW Australia, N=218,093)
@@ -162,19 +162,19 @@ As reported by [Science/AAAS](https://www.science.org/content/article/us-judge-r
 ### DTaP timing and atopic dermatitis
 
 #### Gehrt et al. 2021 (Denmark, N=883,160)
-- [MEASURED] [Delayed first DTaP dose: aRR 0.94 (0.91-0.97) for atopic dermatitis](https://doi.org/10.1016/j.jaip.2020.09.024)
-- [MEASURED] [Delayed first AND second doses: aRR 0.88 (0.82-0.93)](https://doi.org/10.1016/j.jaip.2020.09.024)
+- [MEASURED] [Delayed first DTaP dose: aRR 0.94 (0.91-0.97) for atopic dermatitis](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Timeliness%20of%20DTaP-IPV-Hib%20Vaccination%20Atopic%20Dermatitis.html#:~:text=delayed%20DTaP%20%28aRR%200.94)
+- [MEASURED] [Delayed first AND second doses: aRR 0.88 (0.82-0.93)](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Timeliness%20of%20DTaP-IPV-Hib%20Vaccination%20Atopic%20Dermatitis.html#:~:text=aRR%20of%200.88%20%2895%25%20CI%3A%200.82-0.93)
 - [MY SYNTHESIS] Dose-response relationship supports causality. But the effect is **small** (6-12% relative risk reduction). And this is atopic dermatitis, not food allergy.
 
 #### Venter et al. 2016 (Melbourne HealthNuts, N=4,433)
-- [MEASURED] [Delayed DTaP: NOT associated with food allergy (p=0.49)](https://doi.org/10.1111/all.12830)
-- [MEASURED] [Delayed DTaP: associated with reduced eczema (p=0.04)](https://doi.org/10.1111/all.12830)
+- [MEASURED] [Delayed DTaP: NOT associated with food allergy (p=0.49)](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Timing%20of%20routine%20infant%20vaccinations%20food%20allergy%20eczema.html#:~:text=delayed%20DTaP%20was%20not%20associated%20with%20primary%20out-)
+- [MEASURED] [Delayed DTaP: associated with reduced eczema (p=0.04)](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Timing%20of%20routine%20infant%20vaccinations%20food%20allergy%20eczema.html#:~:text=delayed%20DTaP%20was%20associated%20with%20reduced%20eczema)
 - [MY SYNTHESIS] Directly contradicts the hypothesis that DTaP timing drives food allergy. Supports a modest eczema effect.
 
 ### Vaccinated vs. unvaccinated comparisons
 
 #### KiGGS (Germany, N=13,453, Schmitz et al. 2011)
-- [MEASURED] [No statistically significant differences in atopic disorder prevalence between vaccinated and unvaccinated after adjustment](https://doi.org/10.3238/arztebl.2011.0099)
+- [MEASURED] [No statistically significant differences in atopic disorder prevalence between vaccinated and unvaccinated after adjustment](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Vaccination%20Status%20and%20Health%20KiGGS.html#:~:text=significant%20differences%20in%20the%20prevalence%20of%20atopic)
 - [MY SYNTHESIS] Largest well-conducted study of its kind. Strongly argues against a large vaccine-allergy effect.
 
 #### Grüber et al. 2003 (West Midlands, N=29,238)
@@ -193,14 +193,14 @@ As reported by [Science/AAAS](https://www.science.org/content/article/us-judge-r
 ## 5. The Risk-Benefit Context
 
 ### Vaccine-preventable disease burden (Roush & Murphy 2007, JAMA)
-- [MEASURED] [Pre-vaccine era annual US cases: measles ~530,000 (reported; actual estimated 3-4 million), diphtheria ~21,053, pertussis ~200,752](https://doi.org/10.1001/jama.298.18.2155)
-- [MEASURED] [Pre-vaccine era annual US deaths: measles ~440, diphtheria ~1,822, pertussis ~4,034](https://doi.org/10.1001/jama.298.18.2155)
-- [MEASURED] [Post-vaccine: >92% decline in cases, ≥99% decline in deaths](https://doi.org/10.1001/jama.298.18.2155)
-- [MEASURED] [~103 million cases prevented since 1924](https://doi.org/10.1001/jama.298.18.2155)
+- [MEASURED] [Pre-vaccine era annual US cases: measles ~530,000 (reported; actual estimated 3-4 million), diphtheria ~21,053, pertussis ~200,752](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Historical%20Comparisons%20Vaccine-Preventable%20Diseases.html#:~:text=Measles%20530%20217)
+- [MEASURED] [Pre-vaccine era annual US deaths: measles ~440, diphtheria ~1,822, pertussis ~4,034](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Historical%20Comparisons%20Vaccine-Preventable%20Diseases.html#:~:text=4034)
+- [MEASURED] [Post-vaccine: >92% decline in cases, ≥99% decline in deaths](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Historical%20Comparisons%20Vaccine-Preventable%20Diseases.html#:~:text=greater%20than%2092%25%20decline%20in%20cases)
+- [MEASURED] [~103 million cases prevented since 1924](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Historical%20Comparisons%20Vaccine-Preventable%20Diseases.html#:~:text=deaths%20and%2014%20million%20cases%20of%20disease)
 
 ### Putting the food allergy risk in context
 - [MY SYNTHESIS] Even taking the most generous interpretation of the wP vs aP data: the acellular pertussis vaccine is associated with food anaphylaxis at [5.1 per 100,000 child-years](https://doi.org/10.1016/j.jaip.2023.12.048) (vs 3.5 for whole-cell). The **absolute increase** attributable to the acellular formulation is ~1.6 per 100,000 child-years.
-- [MY SYNTHESIS] Pre-vaccine pertussis killed [~4,034 Americans per year](https://doi.org/10.1001/jama.298.18.2155) when the population was ~120 million, i.e., ~3.4 per 100,000.
+- [MY SYNTHESIS] Pre-vaccine pertussis killed [~4,034 Americans per year](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Historical%20Comparisons%20Vaccine-Preventable%20Diseases.html#:~:text=4034) when the population was ~120 million, i.e., ~3.4 per 100,000.
 - [MY SYNTHESIS] The pertussis mortality rate was approximately **twice** the attributable food anaphylaxis hospitalization rate from the acellular formulation. And pertussis deaths are deaths, while food anaphylaxis hospitalizations are mostly survivable.
 
 ---
@@ -209,10 +209,10 @@ As reported by [Science/AAAS](https://www.science.org/content/article/us-judge-r
 
 ### "Vaccines cause allergies" is not a single claim — it's at least four:
 
-1. **Vaccine excipients can trigger anaphylaxis in already-sensitized individuals** — TRUE, [well-documented](https://doi.org/10.1007/s40629-022-00215-8), rare (1-10 per million)
+1. **Vaccine excipients can trigger anaphylaxis in already-sensitized individuals** — TRUE, [well-documented](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Anaphylaxis%20to%20additives%20in%20vaccines.html#:~:text=one%20to%20ten%20cases%20per%201%20million), rare (1-10 per million)
 
-2. **The acellular pertussis vaccine is associated with higher food allergy risk than the whole-cell formulation** — PROBABLY TRUE, supported by strong epidemiological evidence ([Estcourt 2020](https://doi.org/10.1016/j.jaip.2019.12.020), [2024](https://doi.org/10.1016/j.jaip.2023.12.048))
+2. **The acellular pertussis vaccine is associated with higher food allergy risk than the whole-cell formulation** — PROBABLY TRUE, supported by strong epidemiological evidence ([Estcourt 2020](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Whole-Cell%20Pertussis%20Vaccination%20Decreased%20Risk%20Food%20Allergy.html#:~:text=controls%20was%200.77%20%2895%25%20CI%2C%200.62-0.95), [2024](https://doi.org/10.1016/j.jaip.2023.12.048))
 
-3. **Aluminum adjuvants promote Th2 skewing that increases allergy risk in susceptible individuals** — PLAUSIBLE, supported by [mouse models and mechanistic reasoning](https://doi.org/10.3390/ijerph15050901), but lacks human epidemiological confirmation
+3. **Aluminum adjuvants promote Th2 skewing that increases allergy risk in susceptible individuals** — PLAUSIBLE, supported by [mouse models and mechanistic reasoning](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Aluminum%20Adjuvant-Containing%20Vaccines.html#:~:text=genetically%20susceptible%20subpopulation), but lacks human epidemiological confirmation
 
-4. **Trace food proteins in vaccines are a primary driver of the food allergy epidemic** — UNSUBSTANTIATED, based on [mechanistic speculation published only in predatory journals](https://doi.org/10.4172/2329-6631.1000137), contradicted by [large population studies showing no overall vaccine-allergy association](https://doi.org/10.3238/arztebl.2011.0099)
+4. **Trace food proteins in vaccines are a primary driver of the food allergy epidemic** — UNSUBSTANTIATED, based on [mechanistic speculation published only in predatory journals](https://doi.org/10.4172/2329-6631.1000137), contradicted by [large population studies showing no overall vaccine-allergy association](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/Vaccination%20Status%20and%20Health%20KiGGS.html#:~:text=significant%20differences%20in%20the%20prevalence%20of%20atopic)
