@@ -3,7 +3,7 @@
 ## Critical Unanswered Questions
 
 ### 1. Why hasn't the whole-cell vs. acellular pertussis RCT been done?
-Platts-Mills (2015) explicitly noted that "a proper controlled trial comparing the effects of cellular versus acellular pertussis vaccine on allergic disease has not yet been conducted" [[view in paper](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/The%20allergy%20epidemics_%201870-2010.html#:~:text=a%20proper%20controlled%20trial%20comparing%20the%20effects%20of%20cellular%20versus%20acellular%20pertussis%20vaccine%20on%20allergic%20disease%20has%20not%20yet%20been%20conducted)]. The observational evidence from Australia (Estcourt 2020, 2024) is strong, but an RCT would be definitive. Is there an ethical or practical barrier? Is this being pursued?
+Platts-Mills (2015) explicitly noted that "a proper controlled trial comparing the effects of cellular versus acellular pertussis vaccine on allergic disease has not yet been conducted" [[view in paper](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/The%20allergy%20epidemics_%201870-2010.html#:~:text=proper%20controlled%20trial%20comparing,has%20not%20yet%20been%20conducted)]. The observational evidence from Australia (Estcourt 2020, 2024) is strong, but an RCT would be definitive. Is there an ethical or practical barrier? Is this being pursued?
 - **Update**: A 2024 PLOS Medicine paper was found (immunogenicity trial of mixed wP/aP schedules in Australian infants). Need to check if allergy outcomes were measured.
 
 ### 2. What is the actual mechanism by which acellular pertussis increases food allergy risk?

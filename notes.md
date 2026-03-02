@@ -9,16 +9,16 @@
 
 ### The three allergy epidemics (Platts-Mills 2015)
 - [CLAIMED] Three sequential epidemics: hay fever (~1870), pediatric asthma (~1960), food allergy (~1990)
-- [INFERRED] "sequential changes in lifestyle have led to increases in different forms of allergic disease" (Platts-Mills, JACI 2015, p. 3) [[view in paper](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/The%20allergy%20epidemics_%201870-2010.html#:~:text=sequential%20changes%20in%20lifestyle%20have%20led%20to%20increases%20in%20different%20forms%20of%20allergic%20disease)]
+- [INFERRED] "sequential changes in lifestyle have led to increases in different forms of allergic disease" (Platts-Mills, JACI 2015, p. 3) [[view in paper](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/The%20allergy%20epidemics_%201870-2010.html#:~:text=sequential%20changes%20in%20lifestyle,different%20forms%20of%20allergic%20disease)]
 - [CLAIMED] Hay fever: explained by hygiene + agricultural changes increasing pollen exposure [[view in paper](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/The%20allergy%20epidemics_%201870-2010.html#:~:text=THE%20HAY%20FEVER%20EPIDEMIC)]
 - [CLAIMED] Asthma: driven by indoor lifestyle (TV watching → reduced deep breathing → BHR; increased indoor allergen exposure)
 - [CLAIMED] Food allergy: skin sensitization pathway (peanut exposure through skin in absence of early oral exposure) [[view in paper](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/The%20allergy%20epidemics_%201870-2010.html#:~:text=remarkable%20increase%20in%20food%20allergy)]
 - [MY SYNTHESIS] Platts-Mills' framework is important because it shows the allergy epidemics have multiple, sequential causes tied to lifestyle — NOT a single cause. Vaccines are mentioned only peripherally.
 
 ### Platts-Mills on vaccines specifically
-- [CLAIMED] "a proper controlled trial comparing the effects of cellular versus acellular pertussis vaccine on allergic disease has not yet been conducted" (Platts-Mills 2015, via PMC) [[view in paper](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/The%20allergy%20epidemics_%201870-2010.html#:~:text=a%20proper%20controlled%20trial%20comparing%20the%20effects%20of%20cellular%20versus%20acellular%20pertussis%20vaccine%20on%20allergic%20disease%20has%20not%20yet%20been%20conducted)]
+- [CLAIMED] "a proper controlled trial comparing the effects of cellular versus acellular pertussis vaccine on allergic disease has not yet been conducted" (Platts-Mills 2015, via PMC) [[view in paper](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/The%20allergy%20epidemics_%201870-2010.html#:~:text=proper%20controlled%20trial%20comparing,has%20not%20yet%20been%20conducted)]
 - [CLAIMED] The switch from whole-cell to acellular pertussis (1992 in the US) occurred around the same time as the food allergy epidemic acceleration
-- [CLAIMED] BCG vaccination: early claims of allergy protection were "not confirmed in subsequent studies" [[view in paper](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/The%20allergy%20epidemics_%201870-2010.html#:~:text=possible%20protective%20role%20of%20BCG%20immunization)]
+- [CLAIMED] BCG vaccination: early claims of allergy protection were "not confirmed in subsequent studies" [[view in paper](https://zontasticality.github.io/2026-03-01-vaccine-effect-on-allergies/The%20allergy%20epidemics_%201870-2010.html#:~:text=protective%20role%20of%20BCG%20immunization)]
 - [MY SYNTHESIS] Platts-Mills treats the pertussis vaccine formulation change as a *possible contributing factor* worthy of investigation, but NOT as a primary cause. His framework puts vastly more weight on indoor lifestyle, skin barrier dysfunction, and early feeding practices.
 
 ---
