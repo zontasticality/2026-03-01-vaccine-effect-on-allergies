@@ -24,6 +24,14 @@ RELEVANCES["Prevalence and characteristics of peanut allergy in US adults"]="Est
 
 CSS_BLOCK='
 <style type="text/css">
+/* Override pdf2htmlEX lazy-loading: force all page content visible
+   so that browser text fragment matching (#:~:text=) works.
+   The viewer JS injects display:none on .pc via @media screen rule;
+   this !important override defeats that. */
+@media screen { .pc { display: block !important; } }
+/* Also force all pages opened for consistent rendering */
+.pf .pc { display: block !important; }
+
 #metadata-bar {
   position: fixed;
   top: 0;
@@ -140,7 +148,7 @@ for html_file in "$DOCS_DIR"/*.html; do
   echo "$bar_html" > "$bar_tmp"
 
   python -c "
-import sys
+import sys, re
 css = open('$css_tmp').read()
 bar = open('$bar_tmp').read()
 with open('$html_file', 'r') as f:
@@ -163,6 +171,15 @@ content = content.replace(
     '#sidebar{position:absolute;top:0;',
     '#sidebar{position:absolute;top:80px;'
 )
+
+# Remove pdf2htmlEX viewer JS that does lazy page loading.
+# The viewer's pre_hide_pages() sets display:none on .pc elements,
+# which prevents text fragment matching (#:~:text=).
+# We keep the HTML/CSS but strip all <script> tags.
+content = re.sub(r'<script[^>]*>.*?</script>', '', content, flags=re.DOTALL)
+
+# Ensure all page content boxes have the 'opened' class so they render
+content = content.replace('class=\"pc ', 'class=\"pc opened ')
 
 with open('$html_file', 'w') as f:
     f.write(content)
