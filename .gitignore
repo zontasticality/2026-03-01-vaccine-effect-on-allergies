@@ -1,0 +1,14 @@
+# Binary source files (restored via downloads.manifest.md)
+*.pdf
+*.epub
+*.mobi
+*.azw3
+*.djvu
+
+# Converted text files from epub/pdf extraction
+*.txt
+
+# Editor/OS junk
+.DS_Store
+*~
+*.swp
